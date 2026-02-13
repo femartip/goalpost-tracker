@@ -3,203 +3,55 @@
     "id": "tweet-1733299213503787018",
     "tweetUrl": "https://twitter.com/karpathy/status/1733299213503787018",
     "author": "@karpathy",
-    "claimText": "[A search engine] will never respond with something new…” (in contrast to LLMs).",
-    "claimType": "never",
+    "tweetDate": "2023-12-09",
+    "status": "ambiguous",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
+    "claimType": "other",
     "taxonomy": {
       "domain": "capability",
       "modality": "other",
       "topic": [
         "capability",
-        "twitter",
-        "goalposts"
+        "twitter"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/karpathy/status/1733299213503787018",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search3)."
-      }
-    ],
-    "notes": "Search engines will never respond with something new (contrast w/ LLMs)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1909308143156240538",
-    "tweetUrl": "https://twitter.com/karpathy/status/1909308143156240538",
-    "author": "@karpathy",
-    "claimText": "If you go back through various sci-fi you'll see that very few would have predicted that the AI revolution would feature this progression…",
-    "claimType": "sci-fi",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/karpathy/status/1909308143156240538",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search20)."
-      }
-    ],
-    "notes": "Notes sci-fi rarely predicted current AI revolution progression",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1993010584175141038",
-    "tweetUrl": "https://twitter.com/karpathy/status/1993010584175141038",
-    "author": "@karpathy",
-    "claimText": "You will never be able to detect the use of AI in homework. Full stop.",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/karpathy/status/1993010584175141038",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search0)."
-      }
-    ],
-    "notes": "You will never be able to reliably detect AI use in homework",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-2017442712388309406",
-    "tweetUrl": "https://twitter.com/karpathy/status/2017442712388309406",
-    "author": "@karpathy",
-    "claimText": "Snippet includes “AI takeoff scifi…” in a post about LLM agents.",
-    "claimType": "sci-fi",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/karpathy/status/2017442712388309406",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search1)."
-      }
-    ],
-    "notes": "Frames 'AI takeoff' as sci-fi (contextualizing expectations)",
-    "tweetDate": "",
-    "achievedDate": ""
+    "claimText": "LLM has no \"hallucination problem\". Hallucination is not a bug, it is LLM's greatest feature. The LLM Assistant has a hallucination problem, and we should fix it.",
+    "notes": "Hallucinations are a feature, not a bug.",
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1776421849611817379",
-    "tweetUrl": "https://twitter.com/ESYudkowsky/status/1776421849611817379",
-    "author": "@ESYudkowsky",
-    "claimText": "Snippet includes: “...they will never develop new science.",
+    "tweetUrl": "https://x.com/VictorTaelin/status/1776096481704804789",
+    "author": "@VictorTaelin",
+    "tweetDate": "2024-04-05",
+    "status": "ambiguous",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
     "claimType": "never",
     "taxonomy": {
       "domain": "capability",
-      "modality": "other",
+      "modality": "text",
       "topic": [
         "capability",
         "twitter",
-        "goalposts"
+        "goalposts",
+        "logic"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ESYudkowsky/status/1776421849611817379",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search13)."
-      }
-    ],
-    "notes": "Claims GPTs will never develop new science (as argued in tweet)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1788308817048215684",
-    "tweetUrl": "https://twitter.com/ESYudkowsky/status/1788308817048215684",
-    "author": "@ESYudkowsky",
-    "claimText": "Snippet includes: “...AlphaFold 4, 5, or N will never ever do? Be bold and falsifiable!",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ESYudkowsky/status/1788308817048215684",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search24)."
-      }
-    ],
-    "notes": "Challenges skeptics to state what AlphaFold N will never do (goalpost framing)",
-    "tweetDate": "",
-    "achievedDate": ""
+    "claimText": "A simple puzzle GPTs will NEVER solve: ... It is also a great proof that GPTs have 0 reasoning capabilities outside of their training set, and that they'll will never develop new science. After all, if the average 15yo destroys you in any given intellectual task, I won't put much faith in you solving cancer.",
+    "notes": "Claims GPTs does not reason as it is not capable of solving the simple logic puzzle",
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1958410017683681698",
-    "tweetUrl": "https://twitter.com/fchollet/status/1958410017683681698",
+    "tweetUrl": "https://x.com/fchollet/status/1529756619533430784",
     "author": "@fchollet",
-    "claimText": "Scaling up deep learning won't lead to AGI …",
-    "claimType": "too-hard",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
+    "tweetDate": "2022-05-26",
     "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/fchollet/status/1958410017683681698",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn3search3)."
-      }
-    ],
-    "notes": "Scaling deep learning won't lead to AGI (approach limitation)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1525523272745426944",
-    "tweetUrl": "https://twitter.com/garymarcus/status/1525523272745426944",
-    "author": "@garymarcus",
-    "claimText": "Snippet includes: “...makes me fear humans will never achieve AGI…",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
     "claimType": "never",
     "taxonomy": {
       "domain": "capability",
@@ -207,83 +59,23 @@
       "topic": [
         "capability",
         "twitter",
-        "goalposts"
+        "goalposts",
+        "AGI"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/garymarcus/status/1525523272745426944",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn3search8)."
-      }
-    ],
-    "notes": "Humans will never achieve AGI (as framed in linked post headline)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1773778249925152909",
-    "tweetUrl": "https://twitter.com/garymarcus/status/1773778249925152909",
-    "author": "@garymarcus",
-    "claimText": "Snippet includes: “Those ideas will never work.",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/garymarcus/status/1773778249925152909",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn3search5)."
-      }
-    ],
-    "notes": "Quotes/mentions claim that certain AI approaches will never work",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1294282794722643968",
-    "tweetUrl": "https://twitter.com/MIT_CSAIL/status/1294282794722643968",
-    "author": "@MIT_CSAIL",
-    "claimText": "...AI will never achieve human intelligence…” (tweet notes the quote attribution issue).",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/MIT_CSAIL/status/1294282794722643968",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn12search0)."
-      }
-    ],
-    "notes": "Amplifies claim that AI will never achieve human intelligence (with caveat)",
-    "tweetDate": "",
-    "achievedDate": ""
+    "claimText": "Scaling up deep learning won't lead to AGI, because deep learning on its own is missing key properties required for general intelligence.",
+    "notes": "Scaling deep learning won't lead to AGI",
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1928303189532758439",
     "tweetUrl": "https://twitter.com/MoritzW42/status/1928303189532758439",
     "author": "@MoritzW42",
-    "claimText": "Title: “Why LLMs Will Never be Creative …",
+    "tweetDate": "2025-05-30",
+    "status": "ambiguous",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
     "claimType": "never",
     "taxonomy": {
       "domain": "capability",
@@ -291,308 +83,71 @@
       "topic": [
         "capability",
         "twitter",
-        "goalposts"
+        "goalposts",
+        "creativity"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/MoritzW42/status/1928303189532758439",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn12search30)."
-      }
-    ],
-    "notes": "LLMs will never be creative (as claimed in thread)",
-    "tweetDate": "",
-    "achievedDate": ""
+    "claimText": "Why LLMs Will Never be Creative",
+    "notes": "LLMs will never be creative",
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1562137291845521408",
     "tweetUrl": "https://twitter.com/ylecun/status/1562137291845521408",
     "author": "@ylecun",
+    "tweetDate": "2022-08-23",
+    "status": "ambiguous",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
+    "claimType": "never",
+    "taxonomy": {
+      "domain": "capability",
+      "modality": "other",
+      "topic": [
+        "capability",
+        "twitter",
+        "goalposts",
+        "AGI"
+      ]
+    },
+    "lastChecked": "2026-02-13",
     "claimText": "A system trained on language alone will never approximate human intelligence, even if trained from now until the heat death of the universe.",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ylecun/status/1562137291845521408",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn12search19)."
-      }
-    ],
     "notes": "Language-only training will never approximate human intelligence",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1624898875927527425",
-    "tweetUrl": "https://twitter.com/ylecun/status/1624898875927527425",
-    "author": "@ylecun",
-    "claimText": "LLMs as they exist today will never replace Google Search… because today’s LLMs make stuff up.",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ylecun/status/1624898875927527425",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search4)."
-      }
-    ],
-    "notes": "Current LLMs will never replace Google Search",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1762638898092499327",
-    "tweetUrl": "https://twitter.com/ylecun/status/1762638898092499327",
-    "author": "@ylecun",
-    "claimText": "Snippet includes: “...will never be able to retrieve just facts with 1.0 probability…",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "capability",
-      "modality": "other",
-      "topic": [
-        "capability",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ylecun/status/1762638898092499327",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search2)."
-      }
-    ],
-    "notes": "Models will never retrieve just facts with probability 1.0 (as asked/answered)",
-    "tweetDate": "",
-    "achievedDate": ""
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1820653051860177045",
     "tweetUrl": "https://twitter.com/GaryMarcus/status/1820653051860177045",
     "author": "@GaryMarcus",
-    "claimText": "GenAI will never again get the same love it had in 2023.",
+    "tweetDate": "2024-08-06",
+    "status": "achieved",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
     "claimType": "never",
     "taxonomy": {
-      "domain": "capability",
+      "domain": "other",
       "modality": "other",
       "topic": [
-        "capability",
         "twitter",
-        "goalposts"
+        "goalposts",
+        "AI bubble"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/GaryMarcus/status/1820653051860177045",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn3search2)."
-      }
-    ],
+    "claimText": "𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟰 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗸𝗻𝗼𝘄𝗻 𝗮𝘀 𝘁𝗵𝗲 𝗺𝗼𝗻𝘁𝗵 𝗶𝗻 𝘄𝗵𝗶𝗰𝗵 𝘁𝗵𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗯𝘂𝗯𝗯𝗹𝗲 𝗯𝘂𝗿𝘀𝘁 ... GenAI will never again get the same love it had in 2023.",
     "notes": "Claims GenAI will never again get the same love it had in 2023",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1944176026193736017",
-    "tweetUrl": "https://twitter.com/ESYudkowsky/status/1944176026193736017",
-    "author": "@ESYudkowsky",
-    "claimText": "I suspect we will never know for sure…” (re: level of professionalism/oversight).",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ESYudkowsky/status/1944176026193736017",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search23)."
-      }
-    ],
-    "notes": "Claims we will never know for sure / insufficient oversight maturity",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1625647893884583936",
-    "tweetUrl": "https://twitter.com/esyudkowsky/status/1625647893884583936",
-    "author": "@esyudkowsky",
-    "claimText": "Snippet includes: “...OpenAI will never offer because it is against their interest…",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/esyudkowsky/status/1625647893884583936",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn14search10)."
-      }
-    ],
-    "notes": "OpenAI will never offer verification in ways against its interest (per tweet)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1716583688031334697",
-    "tweetUrl": "https://twitter.com/i/status/1716583688031334697",
-    "author": "@ylecun",
-    "claimText": "AI will never threaten humans, says top Meta scientist…",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/i/status/1716583688031334697",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn12search3)."
-      }
-    ],
-    "notes": "AI will never threaten humans (as stated in interview clip)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1755362942491439265",
-    "tweetUrl": "https://twitter.com/ylecun/status/1755362942491439265",
-    "author": "@ylecun",
-    "claimText": "Title: “P(doom) is BS.” Snippet references claims about AI becoming dangerous and rising up to murder us.",
-    "claimType": "other",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/ylecun/status/1755362942491439265",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn4search0)."
-      }
-    ],
-    "notes": "Dismisses P(doom) / AI takeover risk framing",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1857064317373337915",
-    "tweetUrl": "https://twitter.com/TheZvi/status/1857064317373337915",
-    "author": "@TheZvi",
-    "claimText": "Snippet includes: “We will never be 'ready' for AGI …",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/TheZvi/status/1857064317373337915",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn12search16)."
-      }
-    ],
-    "notes": "We will never be 'ready' for AGI (preparedness framing)",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1864103999219089857",
-    "tweetUrl": "https://twitter.com/TheZvi/status/1864103999219089857",
-    "author": "@TheZvi",
-    "claimText": "If someone says 'no one would be so stupid as to' then you …",
-    "claimType": "other",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/TheZvi/status/1864103999219089857",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn5search2)."
-      }
-    ],
-    "notes": "Calls out the 'no one would be so stupid as to…' safety complacency trope",
-    "tweetDate": "",
-    "achievedDate": ""
+    "assessment": "",
+    "evidence": []
   },
   {
     "id": "tweet-1871542216763514982",
     "tweetUrl": "https://twitter.com/TheZvi/status/1871542216763514982",
     "author": "@TheZvi",
-    "claimText": "Snippet includes: “pushback like 'no, that would never happen, why would a machine have goals…'",
-    "claimType": "never",
+    "tweetDate": "2024-12-24",
+    "status": "ambiguous",
+    "achievedDate": "# YYYY-MM-DD (when it was achieved/partially achieved)",
+    "claimType": "other",
     "taxonomy": {
       "domain": "other",
       "modality": "other",
@@ -602,73 +157,10 @@
         "goalposts"
       ]
     },
-    "status": "ambiguous",
     "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/TheZvi/status/1871542216763514982",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn5search18)."
-      }
-    ],
-    "notes": "Mentions pushback: 'that would never happen' re: machines having goals",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1926640943093924144",
-    "tweetUrl": "https://twitter.com/TheZvi/status/1926640943093924144",
-    "author": "@TheZvi",
-    "claimText": "Snippet includes: “AI should never autonomously reach out to authorities…",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "other",
-      "modality": "other",
-      "topic": [
-        "safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/TheZvi/status/1926640943093924144",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn5search7)."
-      }
-    ],
-    "notes": "Norm claim: AI should never autonomously reach out to authorities",
-    "tweetDate": "",
-    "achievedDate": ""
-  },
-  {
-    "id": "tweet-1968998244848898352",
-    "tweetUrl": "https://twitter.com/TheZvi/status/1968998244848898352",
-    "author": "@TheZvi",
-    "claimText": "Snippet includes: “humanity will never get its act together…",
-    "claimType": "never",
-    "taxonomy": {
-      "domain": "governance",
-      "modality": "other",
-      "topic": [
-        "governance-safety",
-        "twitter",
-        "goalposts"
-      ]
-    },
-    "status": "ambiguous",
-    "lastChecked": "2026-02-13",
-    "evidence": [
-      {
-        "url": "https://twitter.com/TheZvi/status/1968998244848898352",
-        "title": "Original tweet",
-        "notes": "Imported from CSV (turn5search10)."
-      }
-    ],
-    "notes": "Notes claim that humanity will never get its act together to stop AI",
-    "tweetDate": "",
-    "achievedDate": ""
+    "claimText": "AIs Will Increasingly Fake Alignment",
+    "notes": "Machines having goals",
+    "assessment": "",
+    "evidence": []
   }
 ]

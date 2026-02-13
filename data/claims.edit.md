@@ -24,6 +24,8 @@ claimText: |
 notes: |
   Hallucinations are a feature, not a bug.
 
+assessment: |
+  
 ---
 id: tweet-1776421849611817379
 tweetUrl: https://x.com/VictorTaelin/status/1776096481704804789
@@ -46,6 +48,8 @@ claimText: |
 notes: |
   Claims GPTs does not reason as it is not capable of solving the simple logic puzzle
 
+assessment: |
+  
 ---
 
 id: tweet-1958410017683681698
@@ -70,6 +74,8 @@ notes: |
   Scaling deep learning won't lead to AGI 
 
 
+assessment: |
+  
 ---
 id: tweet-1928303189532758439
 tweetUrl: https://twitter.com/MoritzW42/status/1928303189532758439
@@ -93,6 +99,8 @@ notes: |
   LLMs will never be creative 
 
 
+assessment: |
+  
 ---
 id: tweet-1562137291845521408
 tweetUrl: https://twitter.com/ylecun/status/1562137291845521408
@@ -116,6 +124,8 @@ notes: |
   Language-only training will never approximate human intelligence
 
 
+assessment: |
+  
 ---
 id: tweet-1820653051860177045
 tweetUrl: https://twitter.com/GaryMarcus/status/1820653051860177045
@@ -138,6 +148,8 @@ notes: |
   Claims GenAI will never again get the same love it had in 2023
 
 
+assessment: |
+  
 ---
 id: tweet-1871542216763514982
 tweetUrl: https://twitter.com/TheZvi/status/1871542216763514982
@@ -159,3 +171,4 @@ claimText: |
 notes: |
   Machines having goals
 
+assessment: |
