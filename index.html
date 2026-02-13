@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Goalpost Tracker</title>
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="wrap">
+        <h1>Goalpost Tracker</h1>
+        <p class="sub">A static database of “X will never happen” claims vs what actually happened.</p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="controls" id="controls"></section>
+      <section class="grid" id="grid"></section>
+    </main>
+
+    <dialog class="dialog" id="dialog">
+      <div class="dialog__inner">
+        <button class="dialog__close" id="close">Close</button>
+        <div id="detail"></div>
+      </div>
+    </dialog>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
