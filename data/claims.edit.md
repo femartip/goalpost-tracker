@@ -8,8 +8,9 @@ Fields you can edit: status, taxonomy (domain/modality/topic), claimType, claimT
 id: tweet-1733299213503787018
 tweetUrl: https://twitter.com/karpathy/status/1733299213503787018
 author: @karpathy
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -33,8 +34,9 @@ evidence:
 id: tweet-1909308143156240538
 tweetUrl: https://twitter.com/karpathy/status/1909308143156240538
 author: @karpathy
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: sci-fi  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -58,8 +60,9 @@ evidence:
 id: tweet-1993010584175141038
 tweetUrl: https://twitter.com/karpathy/status/1993010584175141038
 author: @karpathy
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -83,8 +86,9 @@ evidence:
 id: tweet-2017442712388309406
 tweetUrl: https://twitter.com/karpathy/status/2017442712388309406
 author: @karpathy
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: sci-fi  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -108,8 +112,9 @@ evidence:
 id: tweet-1776421849611817379
 tweetUrl: https://twitter.com/ESYudkowsky/status/1776421849611817379
 author: @ESYudkowsky
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -133,8 +138,9 @@ evidence:
 id: tweet-1788308817048215684
 tweetUrl: https://twitter.com/ESYudkowsky/status/1788308817048215684
 author: @ESYudkowsky
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -158,8 +164,9 @@ evidence:
 id: tweet-1958410017683681698
 tweetUrl: https://twitter.com/fchollet/status/1958410017683681698
 author: @fchollet
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: too-hard  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -183,8 +190,9 @@ evidence:
 id: tweet-1525523272745426944
 tweetUrl: https://twitter.com/garymarcus/status/1525523272745426944
 author: @garymarcus
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -208,8 +216,9 @@ evidence:
 id: tweet-1773778249925152909
 tweetUrl: https://twitter.com/garymarcus/status/1773778249925152909
 author: @garymarcus
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -233,8 +242,9 @@ evidence:
 id: tweet-1294282794722643968
 tweetUrl: https://twitter.com/MIT_CSAIL/status/1294282794722643968
 author: @MIT_CSAIL
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -258,8 +268,9 @@ evidence:
 id: tweet-1928303189532758439
 tweetUrl: https://twitter.com/MoritzW42/status/1928303189532758439
 author: @MoritzW42
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -283,8 +294,9 @@ evidence:
 id: tweet-1562137291845521408
 tweetUrl: https://twitter.com/ylecun/status/1562137291845521408
 author: @ylecun
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -308,8 +320,9 @@ evidence:
 id: tweet-1624898875927527425
 tweetUrl: https://twitter.com/ylecun/status/1624898875927527425
 author: @ylecun
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -333,8 +346,9 @@ evidence:
 id: tweet-1762638898092499327
 tweetUrl: https://twitter.com/ylecun/status/1762638898092499327
 author: @ylecun
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -358,8 +372,9 @@ evidence:
 id: tweet-1820653051860177045
 tweetUrl: https://twitter.com/GaryMarcus/status/1820653051860177045
 author: @GaryMarcus
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: capability  # capability | deployment | safety | governance | other
@@ -383,8 +398,9 @@ evidence:
 id: tweet-1944176026193736017
 tweetUrl: https://twitter.com/ESYudkowsky/status/1944176026193736017
 author: @ESYudkowsky
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -408,8 +424,9 @@ evidence:
 id: tweet-1625647893884583936
 tweetUrl: https://twitter.com/esyudkowsky/status/1625647893884583936
 author: @esyudkowsky
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -433,8 +450,9 @@ evidence:
 id: tweet-1716583688031334697
 tweetUrl: https://twitter.com/i/status/1716583688031334697
 author: @ylecun
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -458,8 +476,9 @@ evidence:
 id: tweet-1755362942491439265
 tweetUrl: https://twitter.com/ylecun/status/1755362942491439265
 author: @ylecun
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: other  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -483,8 +502,9 @@ evidence:
 id: tweet-1857064317373337915
 tweetUrl: https://twitter.com/TheZvi/status/1857064317373337915
 author: @TheZvi
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -508,8 +528,9 @@ evidence:
 id: tweet-1864103999219089857
 tweetUrl: https://twitter.com/TheZvi/status/1864103999219089857
 author: @TheZvi
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: other  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -533,8 +554,9 @@ evidence:
 id: tweet-1871542216763514982
 tweetUrl: https://twitter.com/TheZvi/status/1871542216763514982
 author: @TheZvi
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -558,8 +580,9 @@ evidence:
 id: tweet-1926640943093924144
 tweetUrl: https://twitter.com/TheZvi/status/1926640943093924144
 author: @TheZvi
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: other  # capability | deployment | safety | governance | other
@@ -583,8 +606,9 @@ evidence:
 id: tweet-1968998244848898352
 tweetUrl: https://twitter.com/TheZvi/status/1968998244848898352
 author: @TheZvi
-date: 
+tweetDate: 
 status: ambiguous  # not-yet | partial | achieved | ambiguous
+achievedDate:  # YYYY-MM-DD (when it was achieved/partially achieved)
 claimType: never  # sci-fi | never | we-would-never | too-hard | years-away | other
 taxonomy:
   domain: governance  # capability | deployment | safety | governance | other

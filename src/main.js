@@ -94,7 +94,7 @@ function renderGrid(items) {
     card.className = 'card';
     card.innerHTML = `
       <div class="meta">
-        <div>${safe(c.author)} · ${safe(c.date)}</div>
+        <div>${safe(c.author)} · ${safe(c.tweetDate || "")}</div>
         <div>${badge(c.status)}</div>
       </div>
       <div class="quote">${safe(c.claimText)}</div>
@@ -114,10 +114,11 @@ function openDetail(c) {
   const ev = Array.isArray(c.evidence) ? c.evidence : [];
 
   $('detail').innerHTML = `
-    <h2>${safe(c.author)} · ${safe(c.date)} ${badge(c.status)}</h2>
+    <h2>${safe(c.author)} · ${safe(c.tweetDate || "")} ${badge(c.status)}</h2>
     <p><strong>Claim type:</strong> ${safe(c.claimType)} · <strong>Domain:</strong> ${safe(t.domain)} · <strong>Modality:</strong> ${safe(t.modality)}</p>
     <p><strong>Topics:</strong> ${(t.topic || []).map(x => `<span class="tag">${safe(x)}</span>`).join(' ') || '<span class="tag">(none)</span>'}</p>
     <hr />
+    ${c.achievedDate ? `<p><strong>Achieved:</strong> ${safe(c.achievedDate)}</p>` : ""}
     <p><strong>Tweet:</strong> <a href="${safe(c.tweetUrl)}" target="_blank" rel="noreferrer">${safe(c.tweetUrl)}</a></p>
     <p><strong>Quote:</strong></p>
     <p class="quote">${safe(c.claimText)}</p>

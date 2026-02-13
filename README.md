@@ -26,7 +26,7 @@ Edit `data/claims.json` and add an object like:
   "id": "2026-02-13-someone-001",
   "tweetUrl": "https://twitter.com/...",
   "author": "handle",
-  "date": "2026-02-13",
+  "tweetDate": "2026-02-13",
   "claimText": "Exact quote from the tweet",
   "claimType": "never",
   "taxonomy": {
@@ -35,6 +35,7 @@ Edit `data/claims.json` and add an object like:
     "topic": ["tool-use", "planning"]
   },
   "status": "not-yet",
+  "achievedDate": "",
   "lastChecked": "2026-02-13",
   "evidence": [
     {
