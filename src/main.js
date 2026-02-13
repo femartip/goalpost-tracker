@@ -146,7 +146,7 @@ function render() {
 }
 
 async function init() {
-  const res = await fetch('/data/claims.json', { cache: 'no-cache' });
+  const res = await fetch('./data/claims.json', { cache: 'no-cache' });
   claims = await res.json();
 
   const opts = {
