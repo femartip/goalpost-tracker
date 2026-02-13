@@ -125,8 +125,7 @@ function openDetail(c) {
     ${c.notes ? `<hr /><p><strong>Notes:</strong> ${safe(c.notes)}</p>` : ''}
     <hr />
     <h3>Assessment</h3>
-    ${c.assessment ? `<p>${safe(c.assessment).replace(/
-/g, "<br />")}</p>` : `<p class="meta">(no assessment yet)</p>`}
+    ${c.assessment ? `<p>${safe(c.assessment).split("\n").join("<br />")}</p>` : `<p class="meta">(no assessment yet)</p>`}
     <hr />
     <h3>Evidence</h3>
     ${ev.length ? `
